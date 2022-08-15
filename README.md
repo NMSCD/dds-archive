@@ -1,4 +1,4 @@
 # nms-dds
 DDS files for the current version of No Man's Sky
  
-Current version: 3.95
+Current version: 3.99
