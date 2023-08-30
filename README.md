@@ -2,4 +2,4 @@
 
 DDS files for the current version of No Man's Sky
  
-Current version: 4.40
+Current version: 4.42
